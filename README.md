@@ -1,4 +1,3 @@
-Latest stable release v2.1.0
 
 Work Fulfillment
 =========================
@@ -41,3 +40,5 @@ Work Fulfillment
   1. rails server -p 5000
   2. bundle exec bin/delayed_job start
   3. thin -C config/faye.yml start
+
+This software is subject to a 3-Clause BSD License as further seen in LICENSE.
